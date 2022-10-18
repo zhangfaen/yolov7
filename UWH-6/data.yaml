@@ -1,0 +1,11 @@
+names:
+- black-hat
+- body
+- bodysurface
+- bodyunder
+- swimmer
+- umpire
+- white-hat
+nc: 7
+train: UWH-6/train/images
+val: UWH-6/valid/images
